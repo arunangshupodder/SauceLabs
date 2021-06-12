@@ -1,0 +1,12 @@
+﻿{
+  "bindingCulture": {
+    "name": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "browser": "Chrome",
+  "app.url": "https://www.saucedemo.com/",
+  "username.standard": "standard_user",
+  "password": "secret_sauce"
+}
